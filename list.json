@@ -8,5 +8,11 @@
         "name": "ThailandLanguage",
         "label": "Language",
         "url": "https://github.com/GSQStudio/acs1_mod_thailandlanguage"
-    }
+    },
+	{
+		"name": "PTBRLanguage",
+        "label":"Language",
+        "url":"https://github.com/IzanagiK/Tradu-ao-AMCS.gic"
+	}
+
 ]
